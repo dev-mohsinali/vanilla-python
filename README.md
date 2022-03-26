@@ -1,2 +1,2 @@
-# vanilla-python
-Only pure python related concepts
+# scrapy-bits
+A common repository for vanilla python bits
