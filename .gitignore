@@ -130,3 +130,9 @@ dmypy.json
 .pyre/
 *.csv
 .vscode
+
+# PyCharm
+.idea/
+
+#sqlite
+*.db
