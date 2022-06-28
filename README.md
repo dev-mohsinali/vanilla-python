@@ -1,2 +1,2 @@
-# scrapy-bits
-A common repository for vanilla python bits
+# python-bits
+A common repository for vanilla python
