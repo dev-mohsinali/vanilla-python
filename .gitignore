@@ -136,3 +136,4 @@ dmypy.json
 
 #sqlite
 *.db
+/myfile.txt
