@@ -2,7 +2,7 @@
 with open('myfile.txt', 'w') as file:
     file.write("some text")
 
-# without the context manager usage
+# without the context manager usage it is verbose and you might forget to release the resource
 try:
     file = open('myfile.txt', 'w')
     file.write("some text")
