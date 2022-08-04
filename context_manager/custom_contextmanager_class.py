@@ -14,5 +14,5 @@ class ManagedFile:
         # return True  #if True is returned from exit exception raised here is ignored
 
 
-with ManagedFile("myfile.txt") as file:
+with ManagedFile("../myfile.txt") as file:
     file.write("some text")

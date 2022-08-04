@@ -10,5 +10,5 @@ def managed_file(filename):
         file.close()
 
 
-with managed_file("myfile.txt") as my_file:
+with managed_file("../myfile.txt") as my_file:
     my_file.write("some text")
